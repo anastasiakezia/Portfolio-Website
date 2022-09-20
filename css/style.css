@@ -1,7 +1,6 @@
 .navbar-brand,
 .nav-link {
-    color: #7D70BA;
-    background-color: white;
+    color: #7D70BA !important;
 }
 
 h1,
@@ -16,7 +15,7 @@ h1,
 }
 
 .btn-caraousel {
-    background-color: #7D70BA;
+    background-color: #7D70BA !important;
 }
 
 .progress-bar {
@@ -42,4 +41,8 @@ h1,
 
 footer {
     color: #7D70BA;
+}
+
+.navbar-toggler {
+    background-color: #7D70BA;
 }
