@@ -28,7 +28,7 @@ h1,
 .icon-email,
 .icon-phone,
 .icon-address {
-    color: #7D70BA;
+    color: #7D70BA !important;
 }
 
 .freelancer-available {
