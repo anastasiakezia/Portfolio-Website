@@ -46,3 +46,8 @@ footer {
 .navbar-toggler {
     background-color: #7D70BA;
 }
+
+.img-resize {
+    width: 80px;
+    height: 80px;
+}
